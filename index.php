@@ -306,33 +306,23 @@
     <div id="floating-panel">
     <b>Start: </b>
     <select id="start">
-      <option value="57.057814, -2.135943">Portlethen Academy5</option>
-      <option value="57.057750, -2.135994">Swimming pool</option>
-      <option value="57.061551, -2.128097">Train Station</option>
-      <option value="oklahoma city, ok">Oklahoma City</option>
-      <option value="amarillo, tx">Amarillo</option>
-      <option value="gallup, nm">Gallup, NM</option>
-      <option value="flagstaff, az">Flagstaff, AZ</option>
-      <option value="winona, az">Winona</option>
-      <option value="kingman, az">Kingman</option>
-      <option value="barstow, ca">Barstow</option>
-      <option value="san bernardino, ca">San Bernardino</option>
-      <option value="los angeles, ca">Los Angeles</option>
+        <option value="57.057814, -2.135943">Portlethen Academy</option>
+        <option value="57.057554, -2.108243">Portlethen Bay</option>
+        <option value="57.063092, -2.139899">Asda Superstore</option>
+        <option value="57.057750, -2.135994">Swimming pool</option>
+        <option value="57.061551, -2.128097">Train Station</option>
+        <option value="57.056754, -2.116575">Portlethen Village</option>
+        <option value="57.068889, -2.107275">Findon</option>
     </select>
     <b>End: </b>
     <select id="end">
-      <option value="57.057814, -2.135943">Portlethen Academy</option>
-      <option value="57.057750, -2.135994">Swimming pool</option>
-      <option value="57.061551, -2.128097">Train Station</option>
-      <option value="oklahoma city, ok">Oklahoma City</option>
-      <option value="amarillo, tx">Amarillo</option>
-      <option value="gallup, nm">Gallup, NM</option>
-      <option value="flagstaff, az">Flagstaff, AZ</option>
-      <option value="winona, az">Winona</option>
-      <option value="kingman, az">Kingman</option>
-      <option value="barstow, ca">Barstow</option>
-      <option value="san bernardino, ca">San Bernardino</option>
-      <option value="los angeles, ca">Los Angeles</option>
+        <option value="57.057814, -2.135943">Portlethen Academy</option>
+        <option value="57.057554, -2.108243">Portlethen Bay</option>
+        <option value="57.063092, -2.139899">Asda Superstore</option>
+        <option value="57.057750, -2.135994">Swimming pool</option>
+        <option value="57.061551, -2.128097">Train Station</option>
+        <option value="57.056754, -2.116575">Portlethen Village</option>
+        <option value="57.068889, -2.107275">Findon</option>
     </select>
     </div>
     <div id="map"></div>
