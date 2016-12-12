@@ -306,7 +306,7 @@
     <div id="floating-panel">
     <b>Start: </b>
     <select id="start">
-      <option value="57.057750, -2.135994">Portlethen Academy2</option>
+      <option value="57.057750,-2.135994">Portlethen Academy2.5</option>
       <option value="st louis, mo">St Louis</option>
       <option value="joplin, mo">Joplin, MO</option>
       <option value="oklahoma city, ok">Oklahoma City</option>
