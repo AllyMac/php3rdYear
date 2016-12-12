@@ -8,28 +8,6 @@
 
     <style>
 
-    <!-- Main CSS file -->
-    <link rel="stylesheet" href="cluster/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="cluster/css/owl.carousel.css" />
-    <link rel="stylesheet" href="cluster/css/magnific-popup.css" />
-    <link rel="stylesheet" href="cluster/css/font-awesome.css" />
-    <link rel="stylesheet" href="cluster/css/style.css" />
-    <link rel="stylesheet" href="cluster/css/responsive.css" />
-
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="cluster/images/icon/favicon.png">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="cluster/images/icon/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="cluster/images/icon/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="cluster/images/icon/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="cluster/images/icon/apple-touch-icon-57-precomposed.png">
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
       /* Always set the map height explicitly to define the size of the div
        * element that contains the map. */
       #map {
@@ -55,6 +33,28 @@
         padding-left: 10px;
       }
     </style>
+
+    <!-- Main CSS file -->
+        <link rel="stylesheet" href="cluster/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="cluster/css/owl.carousel.css" />
+        <link rel="stylesheet" href="cluster/css/magnific-popup.css" />
+        <link rel="stylesheet" href="cluster/css/font-awesome.css" />
+        <link rel="stylesheet" href="cluster/css/style.css" />
+        <link rel="stylesheet" href="cluster/css/responsive.css" />
+
+        <!-- Favicon -->
+        <link rel="shortcut icon" href="cluster/images/icon/favicon.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="cluster/images/icon/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="cluster/images/icon/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="cluster/images/icon/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="cluster/images/icon/apple-touch-icon-57-precomposed.png">
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
 
     <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
