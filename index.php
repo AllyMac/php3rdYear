@@ -312,6 +312,7 @@
         <option value="57.057750, -2.135994">Swimming pool</option>
         <option value="57.061551, -2.128097">Train Station</option>
         <option value="57.056754, -2.116575">Portlethen Village</option>
+        <option value="57.062477, -2.128828">Portlethon Primary</option>
         <option value="57.068889, -2.107275">Findon</option>
     </select>
     <b>End: </b>
@@ -322,6 +323,7 @@
         <option value="57.057750, -2.135994">Swimming pool</option>
         <option value="57.061551, -2.128097">Train Station</option>
         <option value="57.056754, -2.116575">Portlethen Village</option>
+        <option value="57.062477, -2.128828">Portlethon Primary</option>
         <option value="57.068889, -2.107275">Findon</option>
     </select>
     </div>
