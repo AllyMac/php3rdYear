@@ -14,7 +14,7 @@
         height: 100%;
       }
       /* Optional: Makes the sample page fill the window. */
-      html, body-2 {
+      html, body {
         height: 90%;
         margin: 0;
         padding: 0;
@@ -302,9 +302,6 @@
     </header>
     <!-- /HEADER -->
 
-</body>
-
-<body-2>
 
     <div id="floating-panel">
     <b>Start: </b>
@@ -365,8 +362,6 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF5a7_Ocmo66Y7fVALFlbUovbS2I_LeJ4&callback=initMap">
     </script>
-
-</body-2>
 
   <!-- CONTACT -->
   <section id="contact">
