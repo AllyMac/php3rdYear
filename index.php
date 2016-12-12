@@ -15,7 +15,7 @@
       }
       /* Optional: Makes the sample page fill the window. */
       html, body {
-        height: 100%;
+        height: 90%;
         margin: 0;
         padding: 0;
       }
@@ -370,5 +370,94 @@
     <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF5a7_Ocmo66Y7fVALFlbUovbS2I_LeJ4&callback=initMap">
     </script>
-  </body>
+
+  <!-- CONTACT -->
+  <section id="contact">
+      <div class="container">
+          <div class="row">
+              <div class="col-md-12">
+                  <div class="section-title">
+                      <h1>Contact us</h1>
+                      <span class="st-border"></span>
+                  </div>
+              </div>
+              <div class="col-sm-4 contact-info">
+                  <p class="contact-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae voluptatum dolorum, possimus tenetur pariatur officia, quo commodi autem doloribus vero rerum aspernatur quidem temporibus.</p>
+                  <p class="st-address"><i class="fa fa-map-marker"></i> <strong>E71 8th Ave, New York NY 21001, US</strong></p>
+                  <p class="st-phone"><i class="fa fa-mobile"></i> <strong>+00 123-456-789</strong></p>
+                  <p class="st-email"><i class="fa fa-envelope-o"></i> <strong>email@yourdomain.com</strong></p>
+                  <p class="st-website"><i class="fa fa-globe"></i> <strong>www.yourdomain.com</strong></p>
+
+              </div>
+              <div class="col-sm-7 col-sm-offset-1">
+                  <form action="cluster/php/send-contact.php" class="contact-form" name="contact-form" method="post">
+                      <div class="row">
+                          <div class="col-sm-6">
+                              <input type="text" name="name" required="required" placeholder="Name*">
+                          </div>
+                          <div class="col-sm-6">
+                              <input type="email" name="email" required="required" placeholder="Email*">
+                          </div>
+                          <div class="col-sm-6">
+                              <input type="text" name="subject" placeholder="Subject">
+                          </div>
+                          <div class="col-sm-6">
+                              <input type="text" name="website" placeholder="Website">
+                          </div>
+                          <div class="col-sm-12">
+                              <textarea name="message" required="required" cols="30" rows="7" placeholder="Message*"></textarea>
+                          </div>
+                          <div class="col-sm-12">
+                              <input type="submit" name="submit" value="Send Message" class="btn btn-send">
+                          </div>
+                      </div>
+                  </form>
+              </div>
+          </div>
+      </div>
+  </section>
+  <!-- /CONTACT -->
+
+  <!-- FOOTER -->
+  <footer id="footer">
+      <div class="container">
+          <div class="row">
+              <!-- SOCIAL ICONS -->
+              <div class="col-sm-6 col-sm-push-6 footer-social-icons">
+                  <span>Follow us:</span>
+                  <a href="https://www.facebook.com/Portlethen-Sports-Club-703745156314817/"><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-twitter"></i></a>
+              </div>
+              <!-- /SOCIAL ICONS -->
+              <div class="col-sm-6 col-sm-pull-6 copyright">
+                  <p>&copy; 2015 <a href="">ShapedTheme</a>. All Rights Reserved.</p>
+              </div>
+          </div>
+      </div>
+  </footer>
+  <!-- /FOOTER -->
+
+
+  <!-- Scroll-up -->
+  <div class="scroll-up">
+      <ul><li><a href="#header"><i class="fa fa-angle-up"></i></a></li></ul>
+  </div>
+
+
+  <!-- JS -->
+  <script type="text/javascript" src="cluster/js/jquery.min.js"></script><!-- jQuery -->
+  <script type="text/javascript" src="cluster/js/bootstrap.min.js"></script><!-- Bootstrap -->
+  <script type="text/javascript" src="cluster/js/jquery.parallax.js"></script><!-- Parallax -->
+  <script type="text/javascript" src="cluster/js/smoothscroll.js"></script><!-- Smooth Scroll -->
+  <script type="text/javascript" src="cluster/js/masonry.pkgd.min.js"></script><!-- masonry -->
+  <script type="text/javascript" src="cluster/js/jquery.fitvids.js"></script><!-- fitvids -->
+  <script type="text/javascript" src="cluster/js/owl.carousel.min.js"></script><!-- Owl-Carousel -->
+  <script type="text/javascript" src="cluster/js/jquery.counterup.min.js"></script><!-- CounterUp -->
+  <script type="text/javascript" src="cluster/js/waypoints.min.js"></script><!-- CounterUp -->
+  <script type="text/javascript" src="cluster/js/jquery.isotope.min.js"></script><!-- isotope -->
+  <script type="text/javascript" src="cluster/js/jquery.magnific-popup.min.js"></script><!-- magnific-popup -->
+  <script type="text/javascript" src="cluster/js/scripts.js"></script><!-- Scripts -->
+
+
+</body>
 </html>
