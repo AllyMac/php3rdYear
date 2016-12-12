@@ -306,7 +306,7 @@
     <div id="floating-panel">
     <b>Start: </b>
     <select id="start">
-        <option value="57.057814, -2.135943">Portlethen Academy</option>
+        <option value="57.057814, -2.135943">Portlethen WALK Academy</option>
         <option value="57.057554, -2.108243">Portlethen Bay</option>
         <option value="57.063092, -2.139899">Asda Superstore</option>
         <option value="57.057750, -2.135994">Swimming pool</option>
