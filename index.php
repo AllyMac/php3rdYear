@@ -342,7 +342,7 @@
         var directionsDisplay = new google.maps.DirectionsRenderer;
         var map = new google.maps.Map(document.getElementById('map'), {
           zoom: 7,
-          center: {lat: 41.85, lng: -87.65}
+          center: {lat: 57.0615734, lng: ,-2.1291093}
         });
         directionsDisplay.setMap(map);
 
