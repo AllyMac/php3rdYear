@@ -306,8 +306,8 @@
     <div id="floating-panel">
     <b>Start: </b>
     <select id="start">
-      <option value="57.057750, -2.135994">Portlethen Academy3</option>
-      <option value="st louis, mo">St Louis</option>
+      <option value="57.057750, -2.135994">Portlethen Academy4</option>
+      <option value="57.057750, -2.135994">Swimming pool</option>
       <option value="joplin, mo">Joplin, MO</option>
       <option value="oklahoma city, ok">Oklahoma City</option>
       <option value="amarillo, tx">Amarillo</option>
@@ -321,8 +321,8 @@
     </select>
     <b>End: </b>
     <select id="end">
-      <option value="chicago, il">Chicago</option>
-      <option value="st louis, mo">St Louis</option>
+      <option value="57.057750, -2.135994">Portlethen Academy</option>
+            <option value="57.057750, -2.135994">Swimming pool</option>
       <option value="joplin, mo">Joplin, MO</option>
       <option value="oklahoma city, ok">Oklahoma City</option>
       <option value="amarillo, tx">Amarillo</option>
